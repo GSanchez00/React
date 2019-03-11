@@ -1,0 +1,14 @@
+.RegularError{
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+.RegularError h1{
+    text-align: center;
+    color: aliceblue;
+}

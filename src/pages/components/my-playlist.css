@@ -1,0 +1,12 @@
+.MyPlaylist {
+    color: #fff;
+    margin: 20px 30px 0 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+.MyPlaylist-title {
+    color: #fff;
+    font-size: 16px;
+    margin: 30px 0;
+}

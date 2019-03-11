@@ -1,0 +1,14 @@
+.MyPlaylistItem {
+    padding: 5px 15px;
+    margin: 0 0 10px 22px;
+    cursor: pointer;
+    line-height: 18px;
+    font-size: 12px;
+    display: list-item;
+}
+
+
+.MyPlaylistItem a{
+    color: #fff;
+    text-decoration: none;
+}
