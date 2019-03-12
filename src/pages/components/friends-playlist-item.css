@@ -1,0 +1,25 @@
+.FriendsPlaylistItem {
+    margin: 0;
+    padding: 5px 15px;
+    margin: 0 0 10px 0px;
+    cursor: pointer;
+    line-height: 18px;
+    font-size: 12px;
+    display: list-item;
+}
+
+.FriendsPlaylistItem a
+{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.FriendsPlaylistItem-image
+{
+    margin-right: 10px;
+    width: 60px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #e82e59;
+}
